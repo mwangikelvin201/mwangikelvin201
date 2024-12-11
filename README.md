@@ -2,7 +2,7 @@
 - 👀 I’m interested in all technical and practical aspects of computing.
 - 🌱 I’m currently learning Data Science and Artificial Intelligence
 - 💞️ I’m looking to collaborate on anything that involves data. Could be data cleaning,visualization,analysis and modelling.
-- 📫 How to reach me at voykehmwangi201@gmail.com
+- 📫 How to reach me at kelvinmwangi.data.scientist@gmail.com
 - 😄 Pronouns: Kamwas
 - ⚡ Fun fact: ...
 
