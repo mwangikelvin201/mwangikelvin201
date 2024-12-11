@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science and Artificial Intelligence
 - 💞️ I’m looking to collaborate on anything that involves data. Could be data cleaning,visualization,analysis and modelling.
 - 📫 How to reach me at kelvinmwangi.data.scientist@gmail.com
-- 😄 Pronouns: Kamwas
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
