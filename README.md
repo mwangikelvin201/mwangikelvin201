@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mwangikelvin201
 - 👀 I’m interested in all technical and practical aspects of computing.
-- 🌱 I’m currently learning Data Science and Artificial Intelligence
+- 🌱 I’m a data scientist whose strength is data cleaning and visualization
 - 💞️ I’m looking to collaborate on anything that involves data. Could be data cleaning,visualization,analysis and modelling.
 - 📫 How to reach me at kelvinmwangi.data.scientist@gmail.com
 - 😄 Pronouns: He/Him
