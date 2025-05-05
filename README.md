@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Kelvin Mwangi Kibung'a<br/>
 - 👀 I’m interested in all technical and practical aspects of computing.<br/>
 - 🌱 I’m a data scientist with a crazy passion for Large Language Models and big data<br/>
-- 💞️ I’m looking to collaborate on anything that involves data. Could be data cleaning,visualization,analysis and modelling.
-- 📫 How to reach me at kelvinmwangi.data.scientist@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Proud Chelsea fan
+- 💞️ I’m looking to collaborate on anything that involves data.Bring that messy data my way and we'll make the most out of it!!<br/>
+- 📫 How to reach me at kelvinmwangi.data.scientist@gmail.com<br/>
+- 😄 Pronouns: He/Him<br/>
+- ⚡ Fun fact: Proud Chelsea fan<br/>
 
 <!---
 mwangikelvin201/mwangikelvin201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
