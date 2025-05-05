@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that involves data. Could be data cleaning,visualization,analysis and modelling.
 - 📫 How to reach me at kelvinmwangi.data.scientist@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Proud Chelsea fan
 
 <!---
 mwangikelvin201/mwangikelvin201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
