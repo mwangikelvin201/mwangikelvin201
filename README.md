@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mwangikelvin201<br/>
+- 👋 Hi, I’m Kelvin Mwangi Kibung'a<br/>
 - 👀 I’m interested in all technical and practical aspects of computing.<br/>
 - 🌱 I’m a data scientist with a crazy passion for Large Language Models and big data<br/>
 - 💞️ I’m looking to collaborate on anything that involves data. Could be data cleaning,visualization,analysis and modelling.
