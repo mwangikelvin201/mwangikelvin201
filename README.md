@@ -1,5 +1,5 @@
 # Hi I am Kelvin Mwangi
-I am a data scientist who is passionate about Large Language models,  augmented retrieval systems and general computing.I aim at creating technology that  elevates people and builds the community. I enjoy working with python, keras, tensorflow and integration of large Language models in my projects.
+I am a data scientist who is passionate about Large Language models,  augmented retrieval systems and general computing.I aim at creating technology that  elevates people and builds the community. I enjoy working with python, keras, tensorflow and integration of Large Language models in my projects.
 
 <!---
 mwangikelvin201/mwangikelvin201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
