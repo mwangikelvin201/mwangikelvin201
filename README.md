@@ -6,7 +6,7 @@ mwangikelvin201/mwangikelvin201 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-I
+JUst a chill guy with crazy love for Large Laguage models ad what they can offer !
 
 
 ## 🌐 Socials:
